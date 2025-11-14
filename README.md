@@ -1,16 +1,33 @@
-# practica-6-granulometria_ICA1A
-Aplicación en Python para el análisis y clasificación de suelos mediante granulometría (SUCS y AASHTO).
+# Análisis Granulométrico Automatizado con Python
 
-## 🧩 Descripción del proyecto
-Este proyecto modela computacionalmente el **análisis granulométrico** utilizado en ingeniería civil para clasificar suelos según su tamaño de partículas.  
-Mediante un programa desarrollado en **Python**, se automatizan los cálculos de los parámetros **D10, D30, D60**, así como los coeficientes **Cu (uniformidad)** y **Cc (curvatura)**, generando la **curva granulométrica** y determinando la **clasificación SUCS y AASHTO** del suelo.
+Práctica 5 – Modelado de Problemas en Ingeniería Civil
 
----
+# 📘 Descripción del Proyecto
 
-## 🎯 Objetivo general
-Diseñar una aplicación en Python que permita **analizar y clasificar suelos** a partir de datos experimentales de laboratorio, haciendo uso de estructuras de datos, visualización gráfica y almacenamiento de resultados.
+Este proyecto presenta un modelo computacional para automatizar el análisis granulométrico de suelos, utilizando Python para calcular los parámetros característicos del suelo, generar la curva granulométrica y producir un reporte completo en PDF.
 
----
+El análisis granulométrico es un procedimiento fundamental en ingeniería civil, utilizado para determinar la distribución por tamaños de las partículas que conforman un suelo y definir su clasificación dentro del sistema SUCS.
 
-## ⚙️ Requerimientos
-- Python 
+# 🎯 Objetivos
+
+Modelar un problema real de ingeniería civil mediante programación.
+
+Capturar y validar datos de laboratorio sobre granulometría.
+
+Calcular automáticamente:
+
+% que pasa
+
+D10, D30, D60
+
+Cu (coeficiente de uniformidad)
+
+Cc (coeficiente de curvatura)
+
+Clasificación SUCS simplificada
+
+Generar la curva granulométrica.
+
+Crear automáticamente un reporte PDF con tabla, parámetros y gráfica.
+
+Organizar el proyecto con estructura modular y clara.
